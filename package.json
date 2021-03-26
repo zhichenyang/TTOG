@@ -1,8 +1,8 @@
 {
   "name": "ttog",
   "version": "1.0.0",
-  "description": "8591 fake",
-  "author": "korverchen <tobychen5487@gmail.com>",
+  "description": "Treasure Transaction of Game",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
